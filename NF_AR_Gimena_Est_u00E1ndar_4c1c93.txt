@@ -1,0 +1,7 @@
+# Plan: Est\u00E1ndar | Country: AR
+
+.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+07+2025+23%3A07%3A13+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9b706895-4deb-4c25-82ae-996fb6feed7e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBEAoUX9F5QWPtUNKFiaAw7C9gnbj8-GmggPnxSMDoYP0WW8MUoeuk4642b-2s3i1KNmN3vbCQOoQaECobTIgz1la9tsPwJ-w-1q8aPW8ZLyArBW8yIgitdi1VgO11eOqwAONCRcVo1uuejCbif9Acksiv
+.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	ct%3DBgjHlOvcAxKbA51JoFyyuiq5qzSGHIH_ni6ko8VDUPBkhoBU1tAlV8Vl49riei2F36UBw_RV43rDjZgHiXBHZ9zeMKA0OWbvBgojphX7tvXGxcpqXnND1p8xT57Mhki0kJ3L-Tco6ZthqKEb0XQ52q1R_eS7Fzo_MjNkI-9zMNOq57jh1CPa0pqV1UTYBndPWAlMCFdkOtor8QlL3u_0eUrv7Hpo5UkzAqMfso_InafoGKwjfG6nfSqBCh8tymzKAo4GZU5taXDJ4VB7AKw39cGatDiw55Oio4uI1z9pUnIbQYDI-OcIVJLyYhijQgwr0-juGQe0C34foaZ3q0zvzLCh6BYHzwMExTUfZTfltJofo83ayaVg5_WfB55axS8eGQPZpyrKsRa8sMXNHgaYRAIrVpaliax8_TYreB7hai_Pm2DJdoShkWjiALzHxipRHOhL5itJBf8_c8eiDHrFOJSnBFkxvRRDi0WthI9H8-BYenqD3Fp6J9jPK6pjAIjUi9zgAeRZhOfj1E0Al7Hz4YsovSwBeU-Ao9p6N2cQr44X3RQsdRgGIg4KDN-O3veOuixYp2TMjw..%26ch%3DAQEAEAABABQ9wJbNaptnZhhBihYYZzbdXwm6GH46HdY.%26v%3D3%26pg%3DSROFSEOHRRESDLDNCDVQ4A46IM
+.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSLFtxveCnicAkawspdew7LXLp-Isq5cvc.%26dt%3D1749771683752
+.netflix.com	TRUE	/	FALSE	1779686026	profilesNewSession	0
