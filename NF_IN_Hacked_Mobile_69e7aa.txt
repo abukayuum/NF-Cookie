@@ -1,0 +1,7 @@
+# Plan: Mobile | Country: IN
+
+.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKEA2dSmYuj-Axw1ouAPteXVgbPsOrX1rQir00aovm45bt8aIHUZJM-uZwetPRsGgangHUL2N5Pc9E8ffin4saThzy9zLiux4aNSy4UOMuoum78RXN-oWKdE_NMDnJTDMDy_Ja0uFyRae6hs6ye4GNvsX4hCJqBdibR27g2cfLTJ4Eg18CsrxpMFko51bnZ2DfgGQtIP4vH2_8ogIGI5VK141WfJ8g8ximaUc-_KBb2Q2kmNmv1dtYwTmz0avLnrapYjsGdGpFrztbeS55UAdEJxDk_cWj8SodiQZIU0dNinU7nLhL5WPdxyNPhYFe8RTAu33sJ3a74NQTQZC208PkqpTikOe5Gp1lI8m-2qcMxTQX7VTiwdcRmoEtxrVzS_DL-5AIRgME3iQ4Vzy6q3VBb2qL4lxZUvdPcrrqs9ZCgDnqR3uLUWTKyHtGFCGhVFGKl91xmCb9lS0kzSBZO6VVByyy_lYQrNxEmkePjVF6MDkheuRhGp5bXDSjn9rv_J4wUw_E4t3MYBiIOCgxrNcZI8XDv0Z_gJdM.%26pg%3D3OTQLYXADFB3FG5MCDQG2BIR3I%26ch%3DAQEAEAABABSwzjnp0h1dlWtY3fq0TJWlbeRgnuDjc3g.
+.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+22+2026+01%3A29%3A54+GMT-0300+(GMT-03%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6fa7fd40-b661-4a6c-9758-70657b15526a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771734592679&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQhVfIP1M698vfvaK4L_VHxPL7dyxtILN0.%26dt%3D1771700329585
+.netflix.com	TRUE	/	FALSE	1779686026	flwssn	dba80df0-5d54-4bff-ab0a-a5e185532cad
+.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBEMV5f-TdRGlxcb_O3PiGnGJgzUSVw5aQdpYD3lXkY_gaL0IqShEqk7bxP2m6aJncxmzy_XFqRVAmYoSSc0yi10XQimkCcPA2N2Z8dUPcQCb80Yrh2GPXNgjR81FP2QfjTnI-0FrDYdVFa8jl0fB3-2_d

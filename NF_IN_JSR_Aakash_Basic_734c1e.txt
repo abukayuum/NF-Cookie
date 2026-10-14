@@ -1,0 +1,8 @@
+# Plan: Basic | Country: IN
+
+.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBEHjSfl9ZbVqLeaenTEHBBipgEZ7AcJvuLAoguUhqfmYFQhhpb05Blckn9p3pwx4oT_1DMOmVKdZz5-Mnm3JqNHa00hOyHHapTccOGequLJRafywblisyASoCwBnkSybfULDNuOOLpCDGLvXA8lW9afvd
+.netflix.com	TRUE	/	FALSE	1779686026	flwssn	469da548-1eef-45a1-a1d6-523257ffc4df
+.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQFAPbWGmOFxGcT9y9ZN4wB5F4dLoSoyzM.%26dt%3D1791192655703
+.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKnA6nwKPx1hL-fgNiWij6et0tt4jzjyQ0mtrFXlyBRuF3-Q-P4XFDE7BP0edD6OzX1MwbNHdNl55AppKJ5fF9PD75M7su1_R9ri3gdskuKzDJr-ZhRVL-yO66j_stWbGwgwP4NYdoT1_BTGVs9mrVivscoUzWmeyMNBGOqd6AWfG9CtKceNg_UI7KdUFFK152XyFZhuNXt9muQu-RWpFz5702WLo2FJlD5q5k0ZKQYCdsTREMCg7h4Lv2HEtufieBBwlzkpif_1VrGDgwiVF_y0-RUhOJt5UZ8piIvWqjKrX5qvm6WDffvFJK_tEJm7Asv38WrbldBzoxCgkrjFeQyKwDM_HQHDuvG9h7QoJ_Qsv5d4LJIILyCM-Gk7mEC_8LcbfQQdPXm51Wx0YSLVx0TzBEmoIxFbhUUNnij-j5C79-0TSFDO2JPHyzv4JcIZR8DzvCnvHUOeiTTJELW5E1OZU26FwyVwzajBWHaMCQeydCubLpPFNu1yjxBJIoS_wCwP5WR6EjkZecCuwuOkfnjeZPzmzeImYLGaH4KyEAppAWpWp9vlwY-JBgGIg4KDEovN7M9klvRjneR1Q..%26pg%3DUEWF2LQBWRHYTCYW3JDAOU634Q%26ch%3DAQEAEAABABQv0BvozJGilgzX237Y8GZNwPXYwRC_utA.
+.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+05+2026+17%3A17%3A33+GMT%2B0530+(India+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=88e73b58-eda7-489a-a672-ce8e0b733702&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778585112537&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1779686026	profilesNewSession	0
