@@ -1,8 +1,0 @@
-# Plan: Premium | Country: TR
-
-.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBEPuODfg02dbD3bJ-AcWwPBNgZY9lrNAPIpqiNoPrSz3rLirmj2GPYpQbGtMZU4rn92ZD9s-6MtXfZ70BBWnIAOzq4Vnhk9uQF-qLOnzLdnM5MJ7q2hccfyyHqouu7j2Z_9m-rM4o0eKCY_ungANkCCCN
-.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKMAxTqqiIypVDKjSVvhVGbss8zKcbAzw-I44DkSSKGWu6cBHWO2Sihljx76svbEqAiPPh1BGXHABSv7gy0ULwgoKs62vnxVFtTNuSGvxOfGPSrBBbN_DtibJd3G3wWxlCH2Vnu0DV99gAYAYtniAA4oCPVTtnRyYHRk3nQaNeACev-v6YT4V0RYtHWdGexGbuSVe0kHo-Vo0N6MOxIfe21zIzK9sLjcs8ExrgjG9CCvPVctJOFP0Q_EqcZy0C4LZ_QYjWZthmszoNARthuSMow4vOq3oAykl4c9ZHCsAKbY35TyzoSR2KHig45_Yjm2ZJbp9bQa8z7StylPgmTsO5C3Uls28Cj2jeX8F5P9O65IPWbTQCzCA9HXIj64hXXdvrTnsRKtTk5NHwrxXHMwL_myRDrFTOwSW66N8bWP_jZ1qT5QY1jMkYgPtDYkADDZ6Y-tW5kgfyseoBybC6yCD1Dc6hHdYFLoMP9DYhg-PAPD4NQDJ6DsBAnDEgbeAPSLKiTN9kiXNgMN5-heb8OvRgGIg4KDGunqzlke5VKV6bcog..%26pg%3DPUSIQLIS7VBANMXSITO4DPQCCA%26ch%3DAQEAEAABABT2_7K6GAzvv2U7PBPxQFOu8w3EZ0_GQMI.
-.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+06%3A26%3A55+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9539ef58-7b46-4c76-9321-5f99b557496a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=TR%3B55&prevHadToken=0&isDntEnabled=0
-.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSlc_NNPmDw8cXG26-8vP8DYbBwsKXAIRM.%26dt%3D1780284411462
-.netflix.com	TRUE	/	FALSE	1779686026	flwssn	afa8199b-8bdc-429b-bfcf-e8e221aa810b
-.netflix.com	TRUE	/	FALSE	1779686026	profilesNewSession	0

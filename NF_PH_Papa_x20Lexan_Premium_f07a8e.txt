@@ -1,8 +1,0 @@
-# Plan: Premium | Country: PH
-
-.netflix.com	TRUE	/	FALSE	1779686026	flwssn	080a369d-aa4e-424e-ad93-e700a1a2f387
-.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeAxbB1espaB1l6gjsZsTKQfDS9emN8Y2Xc-aCeu1XIOeBicgHUetzBO_l0OapikKZ2YeY32a8ObN09sb7y_uwkljcVXSXYU3ZPtz6yOP0qlylt0yTxads34hC0fo1_ZxBBIXFj6czmqQUUKg-yrN0BsI0ehlW7_x29zCcsruKRAT8eFS58ayQC7OU8lZkOuo2zLget4O1yKL3Sh3wshROeqxq2T6XJDYrxA1LdaF1Iz2j4f307fcF-k_Famo7V5h6kUjohEC2SwHQC58V6tNsJTwsuiN2-WbsOhA7zS6np59RcwUAxaJWyS9ej8fL_7nsvv9eegTIWZiJK-gfEViBkEC3wJoUABVjBvwmTZbPJNZbUZJR3W34CvD84AztyoSIZCG0lyD3X_7pyqkorwpSBTxIn1cttv2ruPC4ikrbhecXDIStLXWS8BQjso8TG0EL-T_laAZ33VxAJT0142aZgIa_4ICv7YEJ-p8wRYWKF7gqTQo6_XWzmFGuDpgGSBvbeQlc-WDbD4i05ImYECQwR8VCiAjXaWTie-b6ex89mRgGIg4KDCv-lEQIeA4z12uPNg..%26pg%3D44JOD5TQ2NAENGQZW3ANI33YG4%26ch%3DAQEAEAABABRks6TmiLhhH-6SUIaFVYqR11Va5LjYtt4.
-.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+11+2026+17%3A04%3A46+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=5eb4dd8b-34c5-4a5e-b490-cab28586b452&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1781168635328&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTAH4gSX32Brm_YPUHxULF5HB42trfsu1k.%26dt%3D1781168682466
-.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBEBDD9KUlaMdXi0wUa1QAGO1gTzJ8qmavLI-VEngkSkMR7uypTVHd4XpCNdf5A9mngAj-z2MX3A-gpGxJ5EqZZPTsePG4Z669eW6Wxd4nTXfvtT3eQqIiwVOMIHMtHBMahT3syxCE_dvFIu06aICDLYek
-.netflix.com	TRUE	/	FALSE	1779686026	profilesNewSession	0
