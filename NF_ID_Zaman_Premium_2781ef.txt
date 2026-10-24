@@ -1,8 +1,0 @@
-# Plan: Premium | Country: ID
-
-.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKJA6V41FpVc44ChtJZG1COlTG4UYgjspxLIXpmxABQY5of1zs7crqJvT4xChfETOfBJ7Dw69R6-jE3uy72Q26ob-qXJ0WbDIh-YTvDPAGAbNBx2r57uoWG2-ooaubu7rvCv1rDS1hsW33Mw7iWaOXOvaqSZbMe7ZFkHfJVtJFyOtfRllSweadx-YfHk5k-m7V0mvg0ygBUEqGOMFw7_GoCfzgLeC0OaGGfiR0fKvzCpP8BqZ45pYqkLYnbQ3WuaCKxoLaY5VIAnEMuhHmgu2uTju9yuTEyjTyu8cmx054jTu5p8J0yTIty8U9XHdD-dxUjSVd0Jj0MMb8j0Oqupal59oaT-20V-tkatmIxTQ4O3bXfDrPZ5Eea5rlmD1WU4wZgtUE3ZfOJ_DXvocKoFOl2kH-9fVUb0zMamv6uaDm5MCKNLSdQ6Sv0AHZK7BLdlVmcVgFKmKeuYt3KIPex1vfmxQtScYUa_ZL2UVqitiV3YSwzEen2Uyjz573sZKlKuJf7YBKQ4Emb2rOeExgGIg4KDJdOAH8tMIOEtsq69A..%26ch%3DAQEAEAABABTtaQjjfxWG_N2Ng3gdDAFpquNsA6n7n1s.
-.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQopIHPWp80S_0cqkHjhrdxey4_etPfaHQ.%26dt%3D1742713188803
-.netflix.com	TRUE	/	FALSE	1779686026	flwssn	b8597a9b-8693-48eb-b114-e5368885cfbf
-.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBECwJZS272U9JDcqGa5OlUjpg_GxVC7kONAfyGuZrF4QoBVwL40Ws3vIRozGbA490YIPJwmjHDC_RCWtH20qZP6BLuED_OIks09VN84zFgCxGpsqtJWK3xJlain0xq-rq7w25Dz38hZfT9iA9scPku3AG
-.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+23+2025+14%3A05%3A23+GMT%2B0700+(Western+Indonesia+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=421f61cd-ca11-4000-ac4b-7bbed81de40d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1779686026	profilesNewSession	0

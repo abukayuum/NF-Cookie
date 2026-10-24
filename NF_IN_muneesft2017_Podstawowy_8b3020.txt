@@ -1,8 +1,0 @@
-# Plan: Podstawowy | Country: IN
-
-.netflix.com	TRUE	/	FALSE	1779686026	flwssn	8465fb98-1968-4b0d-9a3c-c21e2eed80e5
-.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKpA8OLsi1eOcJSaFFUrJ4CmGbP5rPBTgjOm_m6FQLu_CK_42kgE7MqQR7AfJX-2FI-Z05FAq5cOvYfrXgCWcHuLHBTE6I72i0KWIkRHpwosFWoYSY5F4MJ_D_2c7PtVmSRLncv4mesGT_ZCR0SoZjBG_eeDU1xysUzk8l44cXRqAq2fwXB83mIv0QPouuN3FCZZBY8HDC0_RtrLyyPP-Dq_SfxJWQ7e4FW3H3zCSXTWvtkPRspFYg0I30-6nM9ZKgul6D9mTaN9Qbt3L294_24RESDThjFw1zOy-xEOAlZ1w-8mhu1p5AZZZlhnEscEQSmgkcF-pWvfTlAbn8AD-e6KwJkoY6_-Hc88vRavaPknTHx7JVs1nQZG7WFqun34qLdSqiUxrWpbWP_q-blaon7c_9_rRaPlzxaLYVJvRZP-jeSletma2U0rRTUDHusVGyuACpiuroa6gjL3sJsGLxo85udUQ3ld_4fGdyAplnTiRDSdDVBG6rc2iYa89A4kttExjpuNtGhFyYmC6W8Hloo9E5omSCHHtKezvFLhHSAweMktEkasBWf9aDkGAYiDgoMRI5QXieCAPdEI8np%26pg%3DAUSVEDVXQNFIDMOJXT5R3H6KH4%26ch%3DAQEAEAABABTXYCK0diWfQQ4ykLsSydC0Kxb_45_ahZc.
-.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+13+2026+12%3A12%3A33+GMT%2B0530+(India+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=3997aaf8-493c-412d-b7cb-e91654532ff6&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTsrbMQ80y1wVhY0fIWfNmCpgepAS7GV5g.%26dt%3D1791873750615
-.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBEMkl0QiAplEU17i2IwnRyClg3XpjB6iKbCEBOdn799JJjcTIFvBXAATyZ8UvM5osIsLluOnkPX0m0qQAmNEfIWjWN_BS8A242_t9nAQI0Vp1KLjFCDXa3u2Wo1PoT6B2gZjaxj5INcYqTIBUdIqt1DGM
-.netflix.com	TRUE	/	FALSE	1779686026	profilesNewSession	0

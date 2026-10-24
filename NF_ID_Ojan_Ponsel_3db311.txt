@@ -1,7 +1,0 @@
-# Plan: Ponsel | Country: ID
-
-.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBELGMSEkhwp7CVTgseh-TQkxgi_zp-fNPX2nqIyvLMIDA_azmDUsyB78Lcg4tXl-1KiEz355hQKTZew2k7pPi6VEU67RC1Te6qUtTTwmBBAXofQ-CYkMuVRbQpDla4cUGnpobWcC5bMBlf1VsnvLSnjy6
-.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL1AkwZ3tGPumBoEOaDfPvI3olDyVWuzL1-rNPfnKvZeIz9zC5mUPZvEgrWq_fiqsKUZO6cgUSDT4rQ52bdHaOnPpPq2RQXQp20csGE_oESZeAfnbzGaD-Kx4ZWpFE3JwZPvVQP7ePboSW1fL2ebMsE2IjxWE3_R0T7_k1tymQt1A0mLxsJUh7llSy553nfZdGmDEylwDkoIMU9_l28T69kfP7nf6tGWiTyUeU_44Sb4R48Pj7QZMc9UQDHoakMN5gW_tzSV83uQfxQK2iui_enCrmfP8An5Xakmv-riDMmAc36OIeC0liET0qELyo0PjQ5irUMWbsebj0qhNDP5sz3zRzEoYAhXV84ZWroBfigOWuVfvZmlRTpBw6aeKbqYMCJ_loIcERKA5iMdRGcolvLferpx-rcnCobIUp21aGnqt8WuJ04zFehSXCgwLbyv7zMFcQjnDhNEK7t3ZKOX7hUFr-liiHgN6kycnivCkaDuqKCfETL7p0YBiIOCgzJMTf4XLrwKAEnjmI.%26pg%3DITA3IR5J3VEIVGYGSBYLDWVWN4%26ch%3DAQEAEAABABQxtC_j0pfr_WrLb8lHeYe-_T6gWTOY2IM.
-.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+08+2025+21%3A21%3A12+GMT%2B0700+(Indochina+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=83d57754-22dd-46f9-927d-97aaf2698b70&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQTKZTotXWHut0JZCoemGaaj-Zlx6jsgy4.%26dt%3D1754662869616
-.netflix.com	TRUE	/	FALSE	1779686026	profilesNewSession	0

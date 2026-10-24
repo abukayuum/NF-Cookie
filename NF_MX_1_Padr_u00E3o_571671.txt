@@ -1,8 +1,0 @@
-# Plan: Padr\u00E3o | Country: MX
-
-.netflix.com	TRUE	/	FALSE	1779686026	flwssn	ab858462-0216-4f1f-8705-3c478944aef4
-.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA_pk5_8ja4KXPILQxnFOUp5OzPuUn2M1kmIMyVGKx-WilR_CkO3IT9-OA1jDFWzrKbB-RSukGPR1br51SE1grilBgFaNlMAD1J4_gkJeuGEgJv_P8toK0EDnLlRs4NCZl5NWAIQ8NRKB50ByfZw27qUr7AjOjWPknkgNp91zpgOz4dgnExkugqIe46IUGoyPM8nMO4Yn4b8NsUF02XjSfV9ZnxY_v8V5rfg3NIZcFzks-3bIRUPqmDf7oz3LFGCWKqKNiXH0ftTJfIeHOtpccxzKUvydn72Z7s4GmgNveiLqTmdRx67PdffqNL-qrC38oexp3uCU46P_-I8wTIg-o9mVoibCzXEiwbg3SeWmlXdk2PK-2YNFzhpCcv8nLaX3LW-0yhuYIrBcIAhy5aTYaDXOMbz87G91gHsVigsC7EPkPzpHdHzbK97l5K3HWSPUEkPYu3MhRPutdG3AWMh54tQPJzm_xErHj96yANHjlv0MjlaMu9bpcB1OAOwn61AFPJnQ04HE_4URn198gPe85bpKoSo9ypx2ACy0GAYiDgoM8kdaA3Zjq2tvQsAJ%26pg%3DTY5DR6Q6XJDBXIXIBQ6VIOOI4E%26ch%3DAQEAEAABABRZ-ODZqh_vtHj9NeCJpWj2HGhthGeMZZ0.
-.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+20%3A44%3A39+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ff0cf73a-de45-4225-bb38-5b8da868fa6e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1777862662301&geolocation=MX%3BMOR&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRmYWmSMnijeLdRIExnhWbeKt22aVfhUaA.%26dt%3D1777862675850
-.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBEKosHVkr-71cFACuPOfpJOFgJc7i4bDY7ftGn2CRKCzjWroIVGpnG_Jei48gt0oNcH7kplNXQboqD6Q0cRsxKB4wose9WZx_6Rr4ygOljlD2ZtZJaK_q9wEyGvl2FfotZLtg0-3WQywJT9hnWexqHzRw
-.netflix.com	TRUE	/	FALSE	1779686026	profilesNewSession	0
