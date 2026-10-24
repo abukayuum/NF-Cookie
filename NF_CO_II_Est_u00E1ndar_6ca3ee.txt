@@ -1,0 +1,8 @@
+# Plan: Est\u00E1ndar | Country: CO
+
+.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBEOqZAYLAcYAMi4e6OZjPWjFgpEolE1XccapQ0mwsrOaU6u4Pq7GljCFjW6LlXeZ8ZNIIFHoyBwJEJaJ_JzgfpTwl59ODsrYRPTf2jYfmISqgpALzj3qWBGtVUJKZSTunaOm_JvPV7WICiSHdOI-Zlx1P
+.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRG8SurXycU94i9XXnLs7pqyGoCSgf7t-4.%26dt%3D1792636023588
+.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA29pTHrQAlIeGAjldiuvbYHiLrHPD0IPeCRajDtdn-Wvzedf4uPOtlWviKD_mNFYTC_7ctn_dEbLvs80vmRxNiDSpaTFiBZGgkTKZpuNL0vcR2NRjuvPdRNX4LtXcb2cIBVytIYPmfO3N2ylgubsGFtX-vXkKO03MvI0I9TEzJmCZh_tq66wco2HTtkpfYv4hDVIRhP_hQ0in9CcI3TFaKT4vfTBhR2mT8p14PDcndzo10YeFc0uB4jv5thRoRM4qzkUGMBeBk9c2ld83kn_xJRMbWSWU46vh8Sv5WfMxh8ars3y7VexzyL0xvswdLBeedXbqO-J1wdY-7Z2wB6nDUZl-vlYhOj75VuBi3fp6H1OnXTj-CrSoGWebPQLbjqq1hesSo2-gM8yU_NKRFLTeCTG2Lu8m8HXdmI_CFdNzbtgWii54UWN-njSpmytdrE3gT5yNqvL2Ou8q4HWKRrO0oEHKFwkCI_D0dDVhH4gMMubAxFRNNoZlHYIRCAMr7dMczi7AzctofX2Bd-FcHH-C4THrSxxJQwYBiIOCgy-Inlv6NTD9cariCc.%26pg%3DQAYMOWS4N5DTROFCGF3BLI3N6E%26ch%3DAQEAEAABABTLOc-SKZ8gst-5qAbxt89QZZy1J6u68jQ.
+.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+21+2026+21%3A29%3A58+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202609.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=411b34db-d8e8-42ce-89e5-934946ba7198&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1779686026	flwssn	448fe011-944c-478c-a04e-630fbeb9a4eb
+.netflix.com	TRUE	/	FALSE	1779686026	profilesNewSession	0

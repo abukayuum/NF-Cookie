@@ -1,0 +1,8 @@
+# Plan: Standard | Country: HU
+
+.netflix.com	TRUE	/	FALSE	1779686026	flwssn	d2e3fa6a-000d-4016-83ef-4e8ed191bf00
+.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBECIWypUgz8cvs910IKlG2AlgdCXmpwHNvrN6PX3rRVi73ipppWqyrxrg5eiQb9bn5wx0jajLreuKpv7C4SyEewKZbct0sudVTbFPwHavreNBK4QXt8ZS5Sj3rkloBI6CciPDYzH4oyToCo3JsXD6oroo
+.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSNPInxSu5fen22xlv_Cgin2kGl_BcljEQ.%26dt%3D1789163272163
+.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA1B7f7IdId0CnXE8jWXA6G37soKu50p5YaSCseH4YbAWZ-6W6h0wqm3bnmefrNXVVCnsJv_kxEJvvEEE8JSHJpEuDrXTWi28Y2RcGR39Hm49_KDWdhiR2JivpKfrI6xPPprXRcBTlnfIw8HJ1cNSALsi0HSvmcEkUKd34EGFnVibwITDYWRo-b8xh3vI0F2gE6SNCRn5XoHRk0iKnKriwzSRmnc_ok0c15LuV0mjtgGViVt9Yt9hdmeRv9_Jnv_x9zAwJdpLGJjJVFLq26qMZjsYyKho3FVJHkPWcgKfJ6hwO_6Dv7xBankHQHkvV-SY8pwOStF2axvg4c-N9XdckxLGjltWDngJRiiCusLwFOrK2uCjEGL_CWOVf6OYeYkmCBZGRoJFnRaPcYzxJ3lCcY76odvD8y9vZpC2kAHWJRwdHMq8Tj21ZcbOuwd9X0N7CKrcrbQa0xNgXmCuSnhvzM5EGFplp_O6j9g8TF_R8JbsOK89nWx-OjRq3K7IjUtVwsqk1cIEFR3ehQUKwtykfJ7wrGcdkpNDpicE1BgGIg4KDH1pbO798UbijiWTxg..%26pg%3DPNBCBYW4MBEXLKUB2YNOL7CPSM%26ch%3DAQEAEAABABSlUg4EXGOc5Y1w-9lv33EKZtaTfRcJk7A.
+.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+11+2026+23%3A48%3A00+GMT%2B0200+(k%C3%B6z%C3%A9p-eur%C3%B3pai+ny%C3%A1ri+id%C5%91)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=e912e24c-1a2c-4dad-881f-bd8c29ae8871&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1789163053881&AwaitingReconsent=false&fclco=&lastConsentTs=1789163053&intType=1&geolocation=HU%3BKE
+.netflix.com	TRUE	/	FALSE	1779686026	profilesNewSession	0

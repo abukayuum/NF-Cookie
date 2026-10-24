@@ -1,0 +1,8 @@
+# Plan: Premium | Country: IN
+
+.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBEF99z1ikGSrFOhOsDNXeKnNgjTRgrbpkgQVp7vIXFQHBE84LXr3vzwd3FOaYCBD18n6mCClVJLNy31wsQ9ZlA0XDrTVPIZS9JDlqv6oL8FuVuof1LK3n-JBARC2xoXqA3EOMOX6MS_7d9SriCIX97V8y
+.netflix.com	TRUE	/	FALSE	1779686026	flwssn	a92fccd8-e8f9-410a-8510-827f1145cebc
+.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKpA_oflGFbmKNy8cq9-5v7UWeMva4RKWPNqM36-J4gnvcaglwFXYtreJuc4xngwDWivq_QbT0aCq0FHia-EZYx93ueRGMq_rNyJnTh8wQK2xa-T7S6LbUi2PKRHZmzaGdMqjChpTjuhwnITAsKDX1C8Yp616lhNACgG_JHrpvtnUA-i8qiSSZoTj3Debug4dEJgZ31twQ_GBCeVHpTK_TdJAj0TwPgZYXmUVoUlzedb-F_LysdYTDcxv3WR7jwkO_J4mKoYvvStT3xoguvrMLYvAgdztV_ZcbDEVJM05i9xSHv4Ev1tOsfMjJGbSQ37--a-rVBMA15lE4HiIbAvE16Yj_grufeJt3GgedBiP5yvj-zldrcIys6K5MS7hGG3-qyy8Kry9rczL8HICsqU_aYcUX9VLG1rMvdHGi6p8IctL8Kza8bRfD_hmO22GcnjBkLQvX1z-NAdWoiCxkg0ZTMRG6hwb-LzHEDoKl89zPt7xSKRb2cekVsqZl-b4U5hKtBEITp1hu84tVWv2tyVA5CqHS-TdtN81tT7PRtVCQ3SdMvVUr6lmC-DSTCGAYiDgoMojBU51t9IwXPufze%26pg%3DU4C7UDHAFNCBXCV7MEYY57JICE%26ch%3DAQEAEAABABQ1FV2ZGy8IPE_7rkmRtz9Zv5KtzGCQ7bk.
+.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+20+2026+13%3A50%3A28+GMT%2B0530+(India+Standard+Time)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=991b27b3-4f2c-4800-9c73-95cde9489450&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1792345887987&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRopZYb-0jCPN5i14TDPzstgyGAmvT48Eo.%26dt%3D1792484413531
+.netflix.com	TRUE	/	FALSE	1779686026	profilesNewSession	0

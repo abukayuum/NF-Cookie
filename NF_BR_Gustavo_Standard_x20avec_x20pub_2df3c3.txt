@@ -1,0 +1,8 @@
+# Plan: Standard\x20avec\x20pub | Country: BR
+
+.netflix.com	TRUE	/	FALSE	1779686026	flwssn	b521e704-f6de-446c-9b38-0d2f00d2b112
+.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA1SzTgztLZQ-x0z9mD2iP2UHWatTYPGic7sM71cKY46Dy3gSVIINFq6ujpe6gsOLOCue7ctwWuyThxEXhG7I5fAPyKhe_DAg5ilh5mJz7DdKJ5pxgTpGvx_3dJZCwhf_TLJRiWw_uS-KZSkQmfN8DXBo_ldXLnhg6igOgFj8hDBktQWTNBPsp-32sBo9anfYwVf0lZI-N7Nan51dsNPIG-sEDOnTnVpe6_DkIG3RVEaND4Glttkjmu3mpFDy7mlXrTiwSB5b8lzS7suzp1jrLHZt2uGS5fcRB8fr_q9ACvjoey_5ONdZR6X272rsRWoaWXMyNwG6gCexueX_H9BPif9FOTsJPx496EwZ0EYf2yFr0BSvTgGauTJ-YjcHPldikBZ8vmZuyNeNogVWkQ56KZuKmGanvGwv5QQdmPJSF5SY4-eAcansY_UT5MQmHlUtrillIVtSOSkeTYVZ13MlrxwQNDvHGs2t9xN6b4SmSYpilDbUB3v1-owIZes0wx3p-WKJ1qcuA_YGwYCs3IoxXhjetExQjdQYBiIOCgxkZ-y4heAkA8SD7lY.%26pg%3D2GQL2QJJHRBYHDZ4WEOFAJSNGE%26ch%3DAQEAEAABABS3OONWZ5xWe7JjBtcGJ2IRfI_rPIo0ZrQ.
+.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+06+2026+13%3A42%3A47+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=b89fe38f-a9bf-4abb-b965-7fdf5117dbff&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&lastConsentTs=1791304385&intType=3&crTime=1791304386379&geolocation=BR%3BPR
+.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQUFZQ0_OQLBrqFYZJdjfjmS0-Fus9CApc.%26dt%3D1791304966170
+.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBENlsltuIOWgQJa2eyvoN1BFgD4y2czE8-e_-jjPb3Bc7o3cejxt7DcIaz0RN22XeY1aOdXz-4Gme4ga9uGPPAN5KYxKsouh9jbRQ_goGD6pByZKmJrCRq6mShNBUVMgVN7FwTSk80-aFnAgj996awgix
+.netflix.com	TRUE	/	FALSE	1779686026	profilesNewSession	0

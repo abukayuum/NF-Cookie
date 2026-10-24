@@ -1,0 +1,8 @@
+# Plan: Est\u00E1ndar | Country: ES
+
+.netflix.com	TRUE	/	FALSE	1779686026	flwssn	a66b5bb2-f16a-4fe3-8abb-d0c539b627a9
+.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBEIeLGf-6pP9Rmzh_jj7_9xZggvRc8cXHyZZuu2klrBVoq4Z3Vgi7grHhaEYgTPKlgnKFXYNhD_pINz1CqCSCLQhN6ujxfikQ-SfbYWisiOK4tbqDfFyWanTnbtcG9eHmfuvQACQMAA0HWenyoyQ2evl_
+.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQZCY7cYO_C8F43TvX589b3FY1USigdTZU.%26dt%3D1703274628045
+.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	v%3D2%26ct%3DBQAOAAEBEOaSoKtadRrZdkRIW12HL06B0B7wkkDNswVuLXX4J3mlbxlVpnIagzGvLVyVACvarLRfPy_zf7HKIargSZowMQhait_gbLPh8x8IMkrSE7qG-bYLtvc7RUWDHh9RgpJpm-BAKUXQ8KraMi4JXTFmkxkAJntABzFzWOUj7QmkFaAeMSgZFJObigrSlkJzm8MuCfJFz59YrTtPWUsIpodvAQAqGiWe4MAzaI7-Wp4vXXVpSZSkjFMsMtDKmRmINlgPQbB-ja8fY-4XvVjY8wd_v5pEDwh5C6i7wExnfPt3MW_Xr5-2Oesh-7P7wWPQZ0qvQ4u1atLkAx3FR8e7IkNU5mqUZzOdP5JtyA3C_exDAQ_ZajSV8Ca55gwpYmyq1EN4-TOKBj1AwQJJZfkIJr7zIm-wV8KDI_HAmfr0ltkeD-Y3JSUttHwAO5DYu_4owWGZd4fnfR3NdUercaPOTdYOuU0miag9t0L953WDnqHnc1OiWC6gyscheDlpKHWKap-j0X8pyI3VH9DxTMts6KGrN9Rs2YN8x6YuZU3I2CrW1VLpJNz8t096ruWeKE3AqGGQNGH9nFBPcX4dp1p9YjYSHYOYrbGxRnpv6r4wwI3NckbV9R_1ZP_0mHz2c3NMtjG5rQTh%26bt%3Ddbl%26ch%3DAQEAEAABABRjOnAt9qsXA0cy1wfJB5a1gm1YCqBfFYc.%26mac%3DAQEAEAABABT9Z1lWCHVMVNKISQ1LNlZtxxu_EBmsKr0.
+.netflix.com	TRUE	/	FALSE	1779686026	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+22+2023+20%3A50%3A31+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=cc31d0c4-8ed1-4703-8daf-a6c9b7e8f479&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false

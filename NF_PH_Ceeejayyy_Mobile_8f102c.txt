@@ -1,0 +1,8 @@
+# Plan: Mobile | Country: PH
+
+.netflix.com	TRUE	/	FALSE	1779686026	nfvdid	BQFmAAEBEHIjQOHim7uMO0VT8QfrayJgr9l-VnOuYV1KNr-twRBBoqlmiLFPP1ZIU3wh7NqgufgCsj-BNMDwlmDMYMMmXTH8jzfMijvncatKgN_YD_EYjTxSDMQMm_zGQmAmzi5cs6LtIG342_IpwMmQPvmXg4XW
+.netflix.com	TRUE	/	FALSE	1779686026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRwp6cLTUqljqyNsWlxH1-KBDf1xNmUdG0.%26dt%3D1791628019370
+.netflix.com	TRUE	/	FALSE	1779686026	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA-Yp4id2koic0w55QsgOwSRxQWarmJee5tu2T6eeo-yGQrj8Wd3ti03YwCUgwIuH1h8GQCSeFXSs3AZEpmhIL_WrEpXezcUQU7LUw-yod-z0vEhoLNH_mpnOdrw7TL4Esn3qqzwgPOQxPNcrLt_aU0zuJ4MLeleJCNnKlcNwLbfyvTgJvxLqXVrLtbY4qZKpwjb8pu_EHVORkaTO7VzXL7r8XnE8SIG_NYAo2g5ThuJU4lJDUFh6VqAo5NSmqI_RA9-_aRFaoPWQf5IEzg9Xe5CfeIbqKaOuqda7eVsN05oWo_aRPDV9mBMHPnLNZSefXHFtGYDBj-4zGAOIFp9_BKK2XQrM-vci2bHCx_LwSGUyNb4BmOE1Vxp6chmHAdUJBinLncISflUZOqZNrs8Qs-radagY1AAhUdLeLNlyUgRe_kyBaZtXF_jxkTJ9ScZsnSZytqGN8B5egGtFXB45AsGP2dKGv4h7PQUvcC6OegLy4cevknh1e8P4BDmBn2pHjvZN5thwcAm9M7JsGYuhG9buvi4uNAKqqxgGIg4KDE7fX4hLU2yXIWnDvg..%26pg%3DQB2ANDPMTZGFXF2UBCHYFVCHAM%26ch%3DAQEAEAABABTq0VccnvEM0uk3uI_6t0Rr2yfBway0x5g.
+.netflix.com	TRUE	/	FALSE	1779686026	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+10+2026+18%3A28%3A51+GMT%2B0800+(China+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f941c3f6-15fd-4d8d-a226-7743f150ed41&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1791627596126&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1779686026	flwssn	4b6579cc-4836-435f-a211-b3efe7478ce1
+.netflix.com	TRUE	/	FALSE	1779686026	profilesNewSession	0
